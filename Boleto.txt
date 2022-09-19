@@ -1,0 +1,5 @@
+_____________BOLETO DE VUELO._______________________
+|Asiento reservado en la fila 6 y en la columna 1
+|Usuario j l
+|Numero de identificacion: 8
+|Numero de celular: 0
